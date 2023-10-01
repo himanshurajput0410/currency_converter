@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-currency-screen{
+ background: url(./assets/currency-bg.jpg) no-repeat;
+ background-size: cover;
+ background-position: 100%;
+}
